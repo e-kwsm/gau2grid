@@ -46,7 +46,7 @@ determined values for :math:`0 \leq \ell < 4`.
 Spherical Order
 ---------------
 
-gau2grid currently supports both the ``CCA`` and ``gaussian`` orders. The numnber
+gau2grid currently supports both the ``CCA`` and ``gaussian`` orders. The number
 of components per angular momentum can be computed as:
 
 .. math::

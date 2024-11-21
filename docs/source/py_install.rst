@@ -10,7 +10,7 @@ You can update gau2grid using `conda <https://www.anaconda.com/download/>`_::
 
     conda install pygau2grid -c psi4
 
-This installs gau2grid and the NumPy dependancy.
+This installs gau2grid and the NumPy dependency.
 
 
 Install from Source
